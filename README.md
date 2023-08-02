@@ -1,4 +1,4 @@
-# Curve Inversion
+# Yield Curve Driver
 Original work inspired from Stephanie Lo and Roni Israelov at NDVR in their work called What Does an Inverted Yield Curve Mean for Upcoming Interest Rate Movements? [link here](https://ndvr.com/journal/what-does-an-inverted-yield-curve-mean)
 
 The question at hand is what are the results of yield curve inversion. Although negative term premia may occur the authors suggest that its the shorter end of the curve inverting while the longer end of the curve stays relatively the same.
